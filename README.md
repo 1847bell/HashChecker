@@ -2,7 +2,7 @@
 
 一个简单的 Windows 文件哈希校验工具，使用 C# 和 Windows Forms 编写。
 
-![CheckHash 程序截图](README-screenshot.jpg)
+![CheckHash 程序截图](README-screenshot.png)
 
 ## 功能
 

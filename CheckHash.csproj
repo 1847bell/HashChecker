@@ -6,6 +6,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>image\CheckHash.ico</ApplicationIcon>
     <AssemblyName>CheckHash</AssemblyName>
     <RootNamespace>CheckHash</RootNamespace>
     <PublishSingleFile>true</PublishSingleFile>
